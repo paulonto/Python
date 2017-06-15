@@ -1,2 +1,2 @@
 # Python
-Algorítimos em Python
+Algorítimos em Python renferentes a lista de exercício.
